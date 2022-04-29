@@ -1,0 +1,33 @@
+﻿Row Labels,Average of income,Average of debt_to_income_ratio,Average of combined_loan_to_value_ratio,,,Row Labels,Average of income,Average of debt_to_income_ratio,Average of combined_loan_to_value_ratio,,,,,,,,
+1,89.58783535,41.96732588,75.0826363,,,Asian,128.3185841,43.60465116,75.02873786,,,,,,,,
+2,85.01639344,41.80851064,72.63491667,,,Black or African American,77.125,42.01948052,80.73246334,,,,,,,,
+3,69.90988626,42.39775281,79.77764035,,,White,85.0646744,42.00157048,75.51510378,,,,,,,,
+Grand Total,86.15118533,42.03264727,75.83472941,,,Grand Total,85.32834373,42.02769679,75.77855401,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,Row Labels,Average of income,Average of debt_to_income_ratio,Average of combined_loan_to_value_ratio,,,,,,,,
+,,,,,,Asian,128.3185841,43.60465116,75.02873786,,,,,,,,
+,,,,,,Black or African American,77.125,42.01948052,80.73246334,,,,,,,,
+Originated,,,,,,White,85.0646744,42.00157048,75.51510378,,,,,,,,
+Approved but not accepted,,,,,,Grand Total,85.32834373,42.02769679,75.77855401,,,,,,,,
+Denied,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,Status,Average of debt_to_income_ratio,Average of combined_loan_to_value_ratio,Average of income,,,,,,,,,,,,,
+,Originated,41.96732588,75.0826363,89.58783535,,,,,,,,,,,,,
+,Approved - Not Accepted,41.80851064,72.63491667,85.01639344,,,,,,,,,,,,,
+,Denied,42.39775281,79.77764035,69.90988626,,,,,,,,,,,,,
+,,,,,,,,,Row Labels,Sum of App ID,,Row Labels,,,,,
+,,,,,,,,,Asian,861891,,Asian,Percent,Black or African American,Percent,White,Percent
+,,,,,,,,,1,718595,,Originated,0.833742318,Originated,0.74361589,Originated,0.83309903
+,,,,,,,,,2,12487,,Approved - Not Accepted,0.014487911,Approved - Not Accepted,0.031597334,Approved - Not Accepted,0.019515674
+,,,,,,,,,3,130809,,Denied,0.151769771,Denied,0.224786776,Denied,0.147385296
+,,,,,,,,,Black or African American,3016552,,,,,,,
+,,,,,,,,,1,2243156,,,,,,,
+,,,,,,,,,2,95315,,,,,,,
+,,,,,,,,,3,678081,,Originated,,Approved - Not Accepted,,Denied,
+,,,,,,,,,White,53506837,,Asian,0.833742318,Asian,0.014487911,Asian,0.151769771
+,,,,,,,,,1,44576494,,Black or African American,0.74361589,Black or African American,0.031597334,Black or African American,0.224786776
+,,,,,,,,,2,1044222,,White,0.83309903,White,0.019515674,White,0.147385296
+,,,,,,,,,3,7886121,,,,,,,
+,,,,,,,,,Grand Total,57385280,,,,,,,
